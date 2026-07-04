@@ -34,7 +34,7 @@ function mergeSort(arr){
 }
 
 
-console.log(mergeSort([56]))
+console.log(mergeSort([56, 3, 2, 6, 1]))
 // sort numbers from that array by moving them to a new one
 // base case once there are no more numbers in the original array
 

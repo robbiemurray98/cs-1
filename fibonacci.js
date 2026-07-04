@@ -27,7 +27,6 @@ console.log(fibs(1))
 
 
 function fibsRec(n){
-    console.log('test')
     if(n === 2){
         return [0, 1]
     } else if(n === 1){
